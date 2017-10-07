@@ -1,2 +1,4 @@
 # Hello-world
-new repository
+hi,
+
+Prashant here, i like programming. i'm interesting java,c,c++,javascript.
